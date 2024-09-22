@@ -96,7 +96,7 @@ const FooterSection = () => {
                                 <p className="copyright my-4">© 2024 Best In Chauffeur. All Rights Reserved, Best in Chauffeur LLC | <span>Made With</span> <a href="https://www.akoode.com/" target="_blank"><i className="fa-solid fa-heart"></i></a></p>
                             </div>
                             <div className="text-2">
-                              <img alt="Credit cards" src="https://bestinChauffeur.com/wp-content/themes/best-in-Chauffeur/images/credit-cards.png"/>
+                              <img alt="Credit cards" src="assets/img/credit-cards.png"/>
                             </div>
                         </div>
                         
